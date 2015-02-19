@@ -8,7 +8,7 @@
 >
   <Properties>
     <Title>SampleWorking</Title>
-    <StartPage>http://samworks.azurewebsites.net/Pages/Default.aspx?{StandardTokens}</StartPage>
+    <StartPage>https://sampleworkings.azurewebsites.net/Pages/Default.aspx?{StandardTokens}</StartPage>
   </Properties>
 
   <AppPrincipal>
