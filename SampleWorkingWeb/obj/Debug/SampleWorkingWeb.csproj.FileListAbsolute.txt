@@ -26,3 +26,4 @@ D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorkingWeb\bin\System.Web.Exte
 D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorkingWeb\bin\System.Web.Services.dll
 D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorkingWeb\bin\System.Xml.dll
 D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorkingWeb\bin\System.Xml.Linq.dll
+D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorkingWeb\obj\Debug\SampleWorkingWeb.csprojResolveAssemblyReference.cache
