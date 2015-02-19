@@ -50,6 +50,10 @@ namespace SampleWorkingWeb
                     web.Update();
                     web.Context.ExecuteQuery();
 
+
+                    clientContext.Load(web, w => w.AllProperties);
+                    clientContext.ExecuteQuery();
+                    Response.Write(web.AllProperties["test"].ToString());
                     Response.Write("updated successfully");
                     //clientContext.Load(web, web2 => web2.Title);
                     //clientContext.ExecuteQuery();
