@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SampleWorkingWeb {
+namespace SampleWorkingWeb.Pages {
     
     
-    public partial class Default {
+    public partial class gridWithCheckbox {
         
         /// <summary>
         /// form1 control.
@@ -22,30 +22,30 @@ namespace SampleWorkingWeb {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// txtSearchbox control.
+        /// GridView1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtSearchbox;
+        protected global::System.Web.UI.WebControls.GridView GridView1;
         
         /// <summary>
-        /// btnSubmit control.
+        /// btnGetSelected control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSubmit;
+        protected global::System.Web.UI.WebControls.Button btnGetSelected;
         
         /// <summary>
-        /// grdEmployees control.
+        /// gvSelected control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView grdEmployees;
+        protected global::System.Web.UI.WebControls.GridView gvSelected;
     }
 }

@@ -8,12 +8,27 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <table>
+            <tr>
+            <td>
+Search for LDAP Groups
+            </td>
+            <td>
+                <asp:TextBox ID="txtSearchbox" runat="server"></asp:TextBox>
+            </td>
+            <td>
+                <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" Width="75px" /></td>
+                </tr>
+        </table>
     <div>
     
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
-    
-    </div>
+
+    <asp:GridView ID="grdEmployees" runat="server" AllowPaging="True" onpageindexchanging="grdEmployees_PageIndexChanging" PageSize="3" AutoGenerateColumns="true">
+
+        <PagerSettings Mode="NextPrevious" />
+    </asp:GridView>
     </form>
+
+    </div>
 </body>
 </html>
-

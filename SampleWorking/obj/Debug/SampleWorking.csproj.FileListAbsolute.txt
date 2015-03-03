@@ -1,3 +1,0 @@
-D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorking\bin\Debug\SampleWorking.pdb
-D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorking\obj\Debug\SampleWorking.dll
-D:\JCI\PAGEExpiration\SAMPLE3\SampleWorking\SampleWorking\obj\Debug\SampleWorking.pdb
